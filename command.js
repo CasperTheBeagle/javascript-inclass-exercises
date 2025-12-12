@@ -13,3 +13,7 @@ console.log(checkTemperature(21));
 console.log(checkTemperature(20));
 console.log(checkTemperature(10));
 console.log(checkTemperature(-25));
+
+
+console.log(loginEmail("johnza007@gmail.com", "johnlovecoding555"));
+console.log(loginEmail("TechUp@gmail.com", "johnloveTechUp"));
